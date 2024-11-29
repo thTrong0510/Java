@@ -5,6 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		
+		//format code: ctrl shift f
 		
 		//format %d số nguyên, %f số thực mặc định là 6 số sau dấu ',' %.3f 3 số, %s chuỗi
 		System.out.printf("Toi %d tuoi", 20);
