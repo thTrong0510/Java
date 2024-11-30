@@ -2,8 +2,8 @@ package OOP;
 
 public class SinhVien {
 	SinhVien(String ten, int tuoi) {
-		name = ten;
-		age = tuoi;
+		this.name = ten;
+		this.age = tuoi;
 	}
 	
 	SinhVien(){}
